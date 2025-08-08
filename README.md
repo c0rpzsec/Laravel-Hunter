@@ -1,4 +1,4 @@
-# Cpanel Login Checker
+# Laravel Hunter V1
 
 ## Installation
 
